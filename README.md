@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jamespilcher
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning computer science at the University of Exeter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in making stuff!
+- 🌱 I’m currently Studying Computer Science at the University of Exeter
+- 📫 How to reach me: pilcherjames0@gmail.com
 
 <!---
 jamespilcher/jamespilcher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
