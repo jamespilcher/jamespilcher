@@ -1,3 +1,4 @@
+First year Compsci undergrad at Exeter
 - 👋 Hi, I’m @jamespilcher
 - 👀 I’m interested in making stuff!
 - 🌱 I’m currently Studying Computer Science at the University of Exeter
