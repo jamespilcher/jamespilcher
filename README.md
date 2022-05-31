@@ -1,2 +1,2 @@
-First year compsci student at Exeter, and upcoming Exeter Computing Society President.
+First year compsci student at Exeter
 - email: pilcherjames0@gmail.com
